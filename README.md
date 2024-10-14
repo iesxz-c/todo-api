@@ -2,12 +2,6 @@
 
 This is a simple Todo application built with FastAPI.
 
-## Live Demo
-
-You can access the live API at the following link:
-
-- [Todo API](https://web-production-4da0.up.railway.app)
-
 ## API Endpoints
 
 ### Get All Todos
