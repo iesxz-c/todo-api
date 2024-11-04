@@ -1,8 +1,4 @@
-# Todo FastAPI Application
-
-This is a simple Todo application built with FastAPI.
-
-## API Endpoints
+ API Endpoints
 
 ### Get All Todos
 - **Endpoint:** `GET /todos/`
